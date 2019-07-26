@@ -42,17 +42,18 @@ def check_genome(genome_name, a_genome):
     #check_genome('SRR650226', a_genome)
     #check_genome('SRR017356', a_genome)
 
-output = []
+genome_pairs = []
 
 for a_genome in all_genome_names:
     #print("<< " + a_genome + " >>")
     files_per_genome = list(filter(lambda x: check_genome(a_genome, x), all_fastq_files))
-    output.append(files_per_genome)
+    genome_pairs.append(files_per_genome)
 
 
-#print(output)
+#print(genome_pairs)
+
 total = 0
-for a_pair in output:
+for a_pair in genome_pairs:
     print(a_pair)
     #print(len(a_pair))
     total += len(a_pair)
