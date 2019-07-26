@@ -20,7 +20,6 @@ for a_fastq in all_fastq_files:
     all_fastq_names.append(a_fastq.split(".")[0])
 
 #print(sorted(all_fastq_names))
-
 #print(len(all_fastq_names))
 
 all_genome_names = []
@@ -28,7 +27,7 @@ all_genome_names = []
 for a_fastq in all_fastq_files:
     all_genome_names.append(a_fastq.split(".")[0].split("_")[0])
 
-#print(set(all_genome_names))
+all_genome_names = set(all_genome_names)
 
 #regex = re.compile(r(set(all_genome_names))[0])
 #print(list(filter(regex.search, all_fastq_names)))
@@ -42,6 +41,22 @@ def check_genome(genome_name, a_genome):
 #for a_genome in all_fastq_files:
     #check_genome('SRR650226', a_genome)
     #check_genome('SRR017356', a_genome)
+
+output = []
+
 for a_genome in all_genome_names:
-    print("<< " + a_genome + " >>")
-    print(list(filter(lambda x: check_genome(a_genome, x), all_fastq_files)))
+    #print("<< " + a_genome + " >>")
+    files_per_genome = list(filter(lambda x: check_genome(a_genome, x), all_fastq_files))
+    output.append(files_per_genome)
+
+
+#print(output)
+total = 0
+for a_pair in output:
+    print(a_pair)
+    #print(len(a_pair))
+    total += len(a_pair)
+
+#print(total)
+
+
