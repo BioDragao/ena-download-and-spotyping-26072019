@@ -1,24 +1,24 @@
-['SRR006917.fastq.gz']
-['SRR022877.fastq.gz']
-['SRR022872.fastq.gz']
-['SRR022532.fastq.gz']
-['SRR022870.fastq.gz']
-['SRR1239340.fastq.gz']
-['SRR014814.fastq.gz']
-['SRR006919.fastq.gz']
-['SRR022873.fastq.gz']
-['SRR022874.fastq.gz']
-['SRR011186.fastq.gz']
-['SRR006918.fastq.gz']
-['SRR022869.fastq.gz']
-['SRR022879.fastq.gz']
-['SRR022876.fastq.gz']
-['SRR022878.fastq.gz']
-['SRR017356.fastq.gz']
-['SRR014813.fastq.gz']
-['SRR006916.fastq.gz']
-['SRR006920.fastq.gz']
-['SRR1239341.fastq.gz']
-['SRR029156.fastq.gz']
-['SRR022880.fastq.gz']
-['SRR022875.fastq.gz']
+mv ./SRR006917.fastq.gz ./1_genomes/
+mv ./SRR022877.fastq.gz ./1_genomes/
+mv ./SRR022872.fastq.gz ./1_genomes/
+mv ./SRR022532.fastq.gz ./1_genomes/
+mv ./SRR022870.fastq.gz ./1_genomes/
+mv ./SRR1239340.fastq.gz ./1_genomes/
+mv ./SRR014814.fastq.gz ./1_genomes/
+mv ./SRR006919.fastq.gz ./1_genomes/
+mv ./SRR022873.fastq.gz ./1_genomes/
+mv ./SRR022874.fastq.gz ./1_genomes/
+mv ./SRR011186.fastq.gz ./1_genomes/
+mv ./SRR006918.fastq.gz ./1_genomes/
+mv ./SRR022869.fastq.gz ./1_genomes/
+mv ./SRR022879.fastq.gz ./1_genomes/
+mv ./SRR022876.fastq.gz ./1_genomes/
+mv ./SRR022878.fastq.gz ./1_genomes/
+mv ./SRR017356.fastq.gz ./1_genomes/
+mv ./SRR014813.fastq.gz ./1_genomes/
+mv ./SRR006916.fastq.gz ./1_genomes/
+mv ./SRR006920.fastq.gz ./1_genomes/
+mv ./SRR1239341.fastq.gz ./1_genomes/
+mv ./SRR029156.fastq.gz ./1_genomes/
+mv ./SRR022880.fastq.gz ./1_genomes/
+mv ./SRR022875.fastq.gz ./1_genomes/
