@@ -1,0 +1,153 @@
+
+
+Building a new DB, current time: 07/27/2019 01:22:09
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR150046_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR150046_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 31.1231 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:28:01
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR016863_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR016863_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 27.353 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:33:35
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR841793_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR841793_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 25.0167 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:39:10
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR150047_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR150047_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 30.0996 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:44:46
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR031484_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR031484_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 29.5824 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:49:27
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR016868_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR016868_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 18.7264 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:51:19
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR650227_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR650227_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 6.8635 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:53:49
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR650219_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR650219_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 13.6103 seconds.
+
+
+Building a new DB, current time: 07/27/2019 01:55:58
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1657059_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1657059_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 10.6051 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:03:24
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125625_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125625_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 43.3038 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:09:16
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR016867_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR016867_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 25.7844 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:14:13
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1792179_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1792179_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.7076 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:19:33
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1792144_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1792144_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 29.6251 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:24:33
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1792076_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1792076_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 29.3856 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:29:47
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR841874_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR841874_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 26.6535 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:34:57
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR841815_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR841815_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 25.253 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:40:36
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125598_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125598_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.9754 seconds.

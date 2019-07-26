@@ -1,1 +1,8 @@
 *.fastq.gz
+*.fastq
+*.out
+*.log
+*.xls
+SpoTyping
+2_genomes/ref/
+*.tmp.*

@@ -1,0 +1,72 @@
+2019/07/26 21:13:21 DEBUG : rclone: Version "v1.41" starting with parameters ["rclone" "copy" "SRR650226.fastq.gz" "onedrive-em:ena-genomes-26082019/downloaded-files/3_file_genomes/" "-vv"]
+2019/07/26 21:13:21 DEBUG : Using config file from "/root/.config/rclone/rclone.conf"
+2019/07/26 21:13:21 DEBUG : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Token expired but no uploads in progress - doing nothing
+2019/07/26 21:13:22 DEBUG : Keeping previous permissions for config file: -rw-r--r--
+2019/07/26 21:13:22 DEBUG : onedrive-em: Saved new token in config file
+2019/07/26 21:13:24 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Modify window is 1s
+2019/07/26 21:13:24 DEBUG : upload_genomes.out.txt: Excluded from sync (and deletion)
+2019/07/26 21:13:24 DEBUG : SRR650226_1.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:24 DEBUG : SRR650226_2.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:24 DEBUG : upload_genomes.sh: Excluded from sync (and deletion)
+2019/07/26 21:13:24 DEBUG : originals: Excluded from sync (and deletion)
+2019/07/26 21:13:24 DEBUG : SRR650226.fastq.gz: Starting multipart upload
+2019/07/26 21:13:24 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Waiting for checks to finish
+2019/07/26 21:13:24 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Waiting for transfers to finish
+2019/07/26 21:13:24 DEBUG : SRR650226.fastq.gz: Uploading segment 0/9287563 size 9287563
+2019/07/26 21:13:27 INFO  : SRR650226.fastq.gz: Copied (new)
+2019/07/26 21:13:27 INFO  : 
+Transferred:   8.857 MBytes (1.462 MBytes/s)
+Errors:                 0
+Checks:                 0
+Transferred:            1
+Elapsed time:          6s
+
+2019/07/26 21:13:27 DEBUG : 8 go routines active
+2019/07/26 21:13:27 DEBUG : rclone: Version "v1.41" finishing with parameters ["rclone" "copy" "SRR650226.fastq.gz" "onedrive-em:ena-genomes-26082019/downloaded-files/3_file_genomes/" "-vv"]
+2019/07/26 21:13:27 DEBUG : rclone: Version "v1.41" starting with parameters ["rclone" "copy" "SRR650226_1.fastq.gz" "onedrive-em:ena-genomes-26082019/downloaded-files/3_file_genomes/" "-vv"]
+2019/07/26 21:13:27 DEBUG : Using config file from "/root/.config/rclone/rclone.conf"
+2019/07/26 21:13:29 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Modify window is 1s
+2019/07/26 21:13:29 DEBUG : upload_genomes.out.txt: Excluded from sync (and deletion)
+2019/07/26 21:13:29 DEBUG : SRR650226.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:29 DEBUG : SRR650226_2.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:29 DEBUG : upload_genomes.sh: Excluded from sync (and deletion)
+2019/07/26 21:13:29 DEBUG : originals: Excluded from sync (and deletion)
+2019/07/26 21:13:29 DEBUG : SRR650226.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:29 DEBUG : SRR650226_1.fastq.gz: Starting multipart upload
+2019/07/26 21:13:29 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Waiting for checks to finish
+2019/07/26 21:13:29 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Waiting for transfers to finish
+2019/07/26 21:13:30 DEBUG : SRR650226_1.fastq.gz: Uploading segment 0/5718970 size 5718970
+2019/07/26 21:13:31 INFO  : SRR650226_1.fastq.gz: Copied (new)
+2019/07/26 21:13:31 INFO  : 
+Transferred:   5.454 MBytes (1.424 MBytes/s)
+Errors:                 0
+Checks:                 0
+Transferred:            1
+Elapsed time:        3.8s
+
+2019/07/26 21:13:31 DEBUG : 7 go routines active
+2019/07/26 21:13:31 DEBUG : rclone: Version "v1.41" finishing with parameters ["rclone" "copy" "SRR650226_1.fastq.gz" "onedrive-em:ena-genomes-26082019/downloaded-files/3_file_genomes/" "-vv"]
+2019/07/26 21:13:31 DEBUG : rclone: Version "v1.41" starting with parameters ["rclone" "copy" "SRR650226_2.fastq.gz" "onedrive-em:ena-genomes-26082019/downloaded-files/3_file_genomes/" "-vv"]
+2019/07/26 21:13:31 DEBUG : Using config file from "/root/.config/rclone/rclone.conf"
+2019/07/26 21:13:33 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Modify window is 1s
+2019/07/26 21:13:33 DEBUG : upload_genomes.out.txt: Excluded from sync (and deletion)
+2019/07/26 21:13:33 DEBUG : SRR650226_1.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:33 DEBUG : SRR650226.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:33 DEBUG : upload_genomes.sh: Excluded from sync (and deletion)
+2019/07/26 21:13:33 DEBUG : originals: Excluded from sync (and deletion)
+2019/07/26 21:13:33 DEBUG : SRR650226.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:33 DEBUG : SRR650226_1.fastq.gz: Excluded from sync (and deletion)
+2019/07/26 21:13:33 DEBUG : SRR650226_2.fastq.gz: Starting multipart upload
+2019/07/26 21:13:33 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Waiting for checks to finish
+2019/07/26 21:13:33 INFO  : One drive root 'ena-genomes-26082019/downloaded-files/3_file_genomes': Waiting for transfers to finish
+2019/07/26 21:13:33 DEBUG : SRR650226_2.fastq.gz: Uploading segment 0/6167507 size 6167507
+2019/07/26 21:13:34 INFO  : SRR650226_2.fastq.gz: Copied (new)
+2019/07/26 21:13:34 INFO  : 
+Transferred:   5.882 MBytes (1.789 MBytes/s)
+Errors:                 0
+Checks:                 0
+Transferred:            1
+Elapsed time:        3.2s
+
+2019/07/26 21:13:34 DEBUG : 7 go routines active
+2019/07/26 21:13:34 DEBUG : rclone: Version "v1.41" finishing with parameters ["rclone" "copy" "SRR650226_2.fastq.gz" "onedrive-em:ena-genomes-26082019/downloaded-files/3_file_genomes/" "-vv"]

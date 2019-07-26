@@ -1,0 +1,25 @@
+#rclone copy SRR006916.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR006917.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR006918.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR006919.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR006920.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR011186.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR014813.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR014814.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR017356.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022532.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022869.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022870.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022872.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022873.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022874.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022875.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022876.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022877.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022878.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022879.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR022880.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR029156.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR1239340.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+rclone copy SRR1239341.fastq.gz onedrive-em:ena-genomes-26082019/downloaded-files/1_file_genomes/ -vv
+

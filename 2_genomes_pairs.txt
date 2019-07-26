@@ -1,4 +1,3 @@
-
 ['ERR150046_1.fastq.gz', 'ERR150046_2.fastq.gz']
 ['ERR016863_1.fastq.gz', 'ERR016863_2.fastq.gz']
 ['ERR841793_1.fastq.gz', 'ERR841793_2.fastq.gz']
