@@ -1,6 +1,8 @@
 *.fastq.gz
 *.fastq
 *.out
+*.txt
+*.swp
 *.log
 *.xls
 SpoTyping

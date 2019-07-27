@@ -61,7 +61,7 @@ def run_spotyping(a_pair):
 
     genome_2 = a_pair[1]
 
-    output = (a_pair[0].split(".")[0]).split("_")[0] + "_spo.out"
+    output = (a_pair[0].split(".")[0]).split("_")[0] + "_spo.txt"
 
     # NOTE the usage of spotyping command
     # python2.7 SpoTyping.py ./118_cat_R1.fastq ./118_cat_R2.fastq

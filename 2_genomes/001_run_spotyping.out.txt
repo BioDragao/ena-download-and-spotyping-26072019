@@ -151,3 +151,501 @@ Sequence type: Nucleotide
 Keep MBits: T
 Maximum file size: 1000000000B
 Adding sequences from FASTA; added 1 sequences in 28.9754 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:46:49
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR970412_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR970412_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 34.4204 seconds.
+
+
+Building a new DB, current time: 07/27/2019 02:56:54
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125603_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125603_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 53.461 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:03:08
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1239337_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1239337_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.5801 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:09:44
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125605_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125605_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 31.189 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:15:03
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1792114_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1792114_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 30.3968 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:20:13
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1791979_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1791979_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 29.7188 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:28:36
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR564262_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR564262_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 68.0708 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:39:12
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125613_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125613_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 49.5162 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:49:13
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125621_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125621_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 46.315 seconds.
+
+
+Building a new DB, current time: 07/27/2019 03:55:20
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR181435_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR181435_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.0519 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:04:42
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR016865_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR016865_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 46.5369 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:11:37
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125618_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125618_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 26.7402 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:16:17
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1792429_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1792429_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.2775 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:18:45
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1657065_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1657065_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 9.2 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:28:12
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125626_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125626_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 54.341 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:34:39
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR5382721_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR5382721_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.2809 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:40:47
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR015582_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR015582_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 31.3054 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:47:11
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125627_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125627_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 27.4998 seconds.
+
+
+Building a new DB, current time: 07/27/2019 04:52:44
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR841904_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR841904_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 32.6259 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:00:53
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR564260_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR564260_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 50.4251 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:04:25
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR650221_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR650221_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 11.8983 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:12:16
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1792338_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1792338_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 58.111 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:18:46
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR032133_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR032133_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.0522 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:26:26
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR564261_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR564261_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 42.376 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:31:15
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1657070_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1657070_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 22.3585 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:35:44
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1239339_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1239339_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 29.7264 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:39:53
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1657068_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1657068_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 19.8002 seconds.
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR150046_1.fastq ERR150046_2.fastq -o ERR150046_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR016863_1.fastq ERR016863_2.fastq -o ERR016863_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR841793_1.fastq ERR841793_2.fastq -o ERR841793_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR150047_1.fastq ERR150047_2.fastq -o ERR150047_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR031484_2.fastq ERR031484_1.fastq -o ERR031484_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR016868_2.fastq ERR016868_1.fastq -o ERR016868_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR650227_2.fastq SRR650227_1.fastq -o SRR650227_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR650219_1.fastq SRR650219_2.fastq -o SRR650219_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1657059_2.fastq SRR1657059_1.fastq -o SRR1657059_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125625_2.fastq ERR125625_1.fastq -o ERR125625_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR016867_2.fastq ERR016867_1.fastq -o ERR016867_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1792179_2.fastq SRR1792179_1.fastq -o SRR1792179_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1792144_1.fastq SRR1792144_2.fastq -o SRR1792144_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1792076_1.fastq SRR1792076_2.fastq -o SRR1792076_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR841874_1.fastq ERR841874_2.fastq -o ERR841874_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR841815_2.fastq ERR841815_1.fastq -o ERR841815_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125598_2.fastq ERR125598_1.fastq -o ERR125598_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR970412_1.fastq ERR970412_2.fastq -o ERR970412_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125603_2.fastq ERR125603_1.fastq -o ERR125603_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1239337_2.fastq SRR1239337_1.fastq -o SRR1239337_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125605_2.fastq ERR125605_1.fastq -o ERR125605_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1792114_1.fastq SRR1792114_2.fastq -o SRR1792114_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1791979_2.fastq SRR1791979_1.fastq -o SRR1791979_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR564262_2.fastq ERR564262_1.fastq -o ERR564262_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125613_1.fastq ERR125613_2.fastq -o ERR125613_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125621_2.fastq ERR125621_1.fastq -o ERR125621_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR181435_1.fastq ERR181435_2.fastq -o ERR181435_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR016865_2.fastq ERR016865_1.fastq -o ERR016865_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125618_2.fastq ERR125618_1.fastq -o ERR125618_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1792429_2.fastq SRR1792429_1.fastq -o SRR1792429_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1657065_1.fastq SRR1657065_2.fastq -o SRR1657065_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125626_2.fastq ERR125626_1.fastq -o ERR125626_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR5382721_2.fastq SRR5382721_1.fastq -o SRR5382721_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR015582_2.fastq ERR015582_1.fastq -o ERR015582_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125627_2.fastq ERR125627_1.fastq -o ERR125627_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR841904_2.fastq ERR841904_1.fastq -o ERR841904_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR564260_1.fastq ERR564260_2.fastq -o ERR564260_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR650221_1.fastq SRR650221_2.fastq -o SRR650221_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1792338_1.fastq SRR1792338_2.fastq -o SRR1792338_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR032133_1.fastq ERR032133_2.fastq -o ERR032133_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR564261_1.fastq ERR564261_2.fastq -o ERR564261_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1657070_1.fastq SRR1657070_2.fastq -o SRR1657070_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1239339_1.fastq SRR1239339_2.fastq -o SRR1239339_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1657068_2.fastq SRR1657068_1.fastq -o SRR1657068_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR016866_1.fastq ERR016866_2.fastq -o ERR016866_spo.out"
+
+Building a new DB, current time: 07/27/2019 05:43:15
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR016866_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR016866_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 13.0679 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:48:19
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR032132_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR032132_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 28.4239 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:54:25
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR125612_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR125612_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 27.29 seconds.
+
+
+Building a new DB, current time: 07/27/2019 05:59:09
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1239338_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1239338_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 27.8449 seconds.
+
+
+Building a new DB, current time: 07/27/2019 06:03:29
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/SRR1657061_spo.out.SpoTyping.tmp.0
+New DB title:  ./SRR1657061_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 19.1551 seconds.
+
+
+Building a new DB, current time: 07/27/2019 06:09:13
+New DB name:   /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ERR841877_spo.out.SpoTyping.tmp.0
+New DB title:  ./ERR841877_spo.out.SpoTyping.tmp.0
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 27.3634 seconds.
+
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR032132_2.fastq ERR032132_1.fastq -o ERR032132_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR125612_1.fastq ERR125612_2.fastq -o ERR125612_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1239338_1.fastq SRR1239338_2.fastq -o SRR1239338_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py SRR1657061_1.fastq SRR1657061_2.fastq -o SRR1657061_spo.out"
+
+ $$$$$$$$$$ 
+
+vagrant ssh -c "cd /vagrant/ena-downloads/ena-genomes-download-26082019/2_genomes/ && python2.7 SpoTyping.py ERR841877_2.fastq ERR841877_1.fastq -o ERR841877_spo.out"
+
+ $$$$$$$$$$ 
+
+DONE
